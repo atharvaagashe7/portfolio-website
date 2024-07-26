@@ -33,6 +33,10 @@ html {
     html {
       font-size: 65%; } }
 
+.hidden {
+  visibility: hidden;
+}      
+
 body {
   box-sizing: border-box;
   position: relative;
